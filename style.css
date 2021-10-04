@@ -291,6 +291,10 @@ a:hover {
   text-align: center;
 }
 
+.p-services {
+  max-width: unset;
+}
+
 #bloc-1-hero h1 {
   font-size: 32px;
 }
