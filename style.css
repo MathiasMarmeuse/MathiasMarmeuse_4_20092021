@@ -284,9 +284,7 @@ a:hover {
 }
 
 .text-center {
-  display: flex;
-  flex-direction: column;
-  font-size: 15px;
+  
 }
 
 #bloc-1-hero h1 {
@@ -796,7 +794,7 @@ figcaption {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #a7532c;
 }
 
 .tc-white {
