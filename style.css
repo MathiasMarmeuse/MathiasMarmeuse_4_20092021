@@ -788,15 +788,14 @@ figcaption {
   text-decoration: underline !important;
 }
 
-.bold-link-container{
-   
-    min-width: 320px;
+.bold-link-container {
+  min-width: 320px;
 }
 
-.bloc-3-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+.bloc-3-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .bgc-white {
