@@ -5,6 +5,7 @@ body {
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased, Arial;
   -moz-osx-font-smoothing: grayscale, Arial;
+  font-display: swap
 }
 
 a,
