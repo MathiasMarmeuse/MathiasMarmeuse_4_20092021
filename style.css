@@ -3,8 +3,8 @@ body {
   padding: 0;
   background: #fff;
   overflow-x: hidden;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased, Arial;
+  -moz-osx-font-smoothing: grayscale, Arial;
 }
 
 a,
@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-  background: url("img/texture-paper.png");
+  background: url("img/img_webp/texture-paper.webp");
   background-size: 280px 280px;
 }
 
@@ -668,7 +668,7 @@ p,
 label,
 .btn,
 a {
-  font-family: "helvetica";
+  font-family: "helvetica", "Arial";
   font-weight: 400;
   color: #000000 !important;
 }
@@ -764,6 +764,7 @@ h4 {
 .portfolio-thumb {
   margin-bottom: 24px;
   margin: auto;
+  min-width: 200px;
 }
 
 .portfolio-row {
@@ -881,7 +882,7 @@ figcaption {
 }
 
 .bg-presentation {
-  background-image: url("img/image-de-presentation.bmp");
+  background-image: url("img/img_webp/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
