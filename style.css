@@ -810,6 +810,8 @@ figcaption {
   margin: auto;
   margin: unset;
   max-width: unset;
+  min-width: 50px;
+  min-height: 50px;
 }
 
 .social-container {
