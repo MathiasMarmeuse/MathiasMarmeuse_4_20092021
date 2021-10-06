@@ -5,7 +5,7 @@ body {
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased, Arial;
   -moz-osx-font-smoothing: grayscale, Arial;
-  font-display: swap
+  font-display: swap;
 }
 
 a,
@@ -765,7 +765,6 @@ h4 {
 .portfolio-thumb {
   margin-bottom: 24px;
   margin: auto;
-  
 }
 
 .portfolio-row {
@@ -817,6 +816,8 @@ figcaption {
   display: flex;
   flex-direction: column;
   align-items: center;
+  min-width: 50px;
+  min-height: 50px;
 }
 
 .bgc-white {
