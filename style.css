@@ -1099,3 +1099,17 @@ figcaption {
     text-align: center;
   }
 }
+
+@media only screen and (max-width: 320px) {
+  .bold-link {
+    margin-right: 50px;
+  }
+}
+
+@media only screen and (max-width: 280px) {
+  .bold-link {
+    margin-right: 100px;
+  }
+}
+
+
